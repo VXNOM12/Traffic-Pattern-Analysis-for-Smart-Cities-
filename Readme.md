@@ -1,6 +1,4 @@
-Here's a sample `README.md` that you can use for your **Traffic Pattern Analysis for Smart Cities** project:
 
-```markdown
 # Traffic Pattern Analysis for Smart Cities
 
 This project analyzes traffic patterns in smart cities using historical traffic data. The goal is to predict traffic counts (number of vehicles) based on time-related features such as hour of the day and day of the week.
